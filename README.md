@@ -3,11 +3,11 @@ This project aims to identify factors that correlate with the gross earnings of 
 
 The hypothesis I would like to test is that the following three factors would have a high correlation with gross earnings:
 
-&#x2610; Budget has a high correlation with gross earnings.
+* Budget has a high correlation with gross earnings.
 
-&#x2610; Score has a high correlation with gross earnings.
+* Score has a high correlation with gross earnings.
 
-&#x2610; Genre has a high correlation with gross earnings.
+* Genre has a high correlation with gross earnings.
 
 # First Findings 
 Based on the initial analysis of the correlation scatterplot, it was found that only two categories, budget and votes, showed a correlation score greater than 0.5.
