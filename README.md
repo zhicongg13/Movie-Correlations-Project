@@ -26,5 +26,3 @@ However, the correlation between genre and gross earnings was only 0.19, indicat
 
 :x: Genre has a high correlation with gross earnings.
 
-
-
