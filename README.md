@@ -1,5 +1,5 @@
 # Analysis of Factors Correlated to Gross Earnings of Movies
-This project aims to identify factors that correlate with the gross earnings of movies using Python. The project includes data cleaning, exploratory data analysis, and regression analysis using libraries such as pandas, matplotlib, and seaborn. The insights gained from this project can inform decision-making in the film industry.
+This project aims to identify factors that correlate with the gross earnings of movies using Python. It includes data cleaning, exploratory data analysis, and regression analysis using libraries such as pandas, matplotlib, and seaborn. The insights gained from this project can inform decision-making in the film industry.
 
 The hypothesis I would like to test is that the following three factors would have a high correlation with gross earnings:
 
